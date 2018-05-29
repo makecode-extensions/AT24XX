@@ -5,7 +5,7 @@ AT24CXX eeprom package for pxt
 Author: shaoziyang  
 Date:   2018.May  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/AT24CXX/master/icon.png)  
+![](icon.png)  
 
 
 ## usage
@@ -43,7 +43,7 @@ read a dword from special address.
 
 ## Demo
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/AT24CXX/master/demo.jpg)
+![](demo.jpg)
 
 ## License
 
