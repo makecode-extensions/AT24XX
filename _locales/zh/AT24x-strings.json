@@ -1,0 +1,8 @@
+{
+    "AT24CXX.write_byte|block": "向 eeprom 地址 %addr|写入一个字节 %dat",
+    "AT24CXX.read_byte|block": "从 eeprom 地址 %addr 读取一个字节",
+    "AT24CXX.write_word|block": "向 eeprom 地址 %addr|写入一个节 %dat",
+    "AT24CXX.read_word|block": "从 eeprom 地址 %addr 读取一个字",
+    "AT24CXX.write_dword|block": "向 eeprom 地址 %addr|写入一个双字 %dat",
+    "AT24CXX.read_dword|block": "从 eeprom 地址 %addr 读取一个双字"
+}
