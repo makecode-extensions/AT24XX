@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "_locales/zh/AT24x-strings.json",
-        "at24x.ts"
+        "AT24x.ts"
     ],
     "testFiles": [
         "test.ts"
