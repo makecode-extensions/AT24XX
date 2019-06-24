@@ -8,8 +8,8 @@
     },
     "files": [
         "README.md",
-        "_locales/zh/AT24x-strings.json",
-        "AT24x.ts"
+        "_locales/zh/AT24CXX-strings.json",
+        "AT24CXX.ts"
     ],
     "testFiles": [
         "test.ts"
