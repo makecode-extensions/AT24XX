@@ -5,7 +5,7 @@ AT24CXX eeprom package for pxt
 Author: shaoziyang  
 Date:   2018.May  
 
-![](icon.png)  
+![](at24.png)  
 
 
 ## usage
